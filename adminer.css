@@ -1,8 +1,6 @@
 /*
-FLAT UI Flavored Adminer Theme by M. Mahbubur Rahman (mahbub@mahbubblog.com)
-Screenshot : http://pappu687.github.io/screenshots/adminer-screenshot.png
-Based on work by : Lukáš Brandejs
-https://raw.github.com/vrana/adminer/master/designs/ng9/adminer.css
+FLAT UI Flavored Adminer Theme by Vladan Paunovic (www.givemejobtoday.com)
+Based on work by : M. Mahbubur Rahman
 */
 
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,700|Inconsolata);
@@ -10,7 +8,7 @@ https://raw.github.com/vrana/adminer/master/designs/ng9/adminer.css
 
 * {
 	font: 13px/1.7 "Roboto","Proxima Nova Rg","Source Sans Pro","Droid Sans",Arial,Helvetica, sans-serif;
-	color:#333333;
+	/*color:#333333;*/
 	margin:0px;
 	padding:0px;
 }
